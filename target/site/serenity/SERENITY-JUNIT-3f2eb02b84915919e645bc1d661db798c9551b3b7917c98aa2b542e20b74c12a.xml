@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Lookup a definition" skipped="0" tests="2" time="31.88" timestamp="2019-08-03 09:58:00"><testcase name="Looking up the definition of 'apple'"/><testcase name="Looking up the definition of 'pear'"/></testsuite>
